@@ -20,9 +20,9 @@ Most of my commercial work lives in private repositories — happy to walk throu
 | [vanhamylly-api](https://github.com/illustraton916/vanhamylly-api) | Restaurant backend — REST API, QR ordering, Telegram bot admin, kitchen display, receipt printing |
 | [restaurant-infra](https://github.com/illustraton916/restaurant-infra) | Self-hosted business infrastructure — OpenWRT + Tailscale, VLAN-segmented network, Proxmox, Cloudflare Tunnel |
 | [valpas-v2](https://github.com/illustraton916/valpas-v2) | Documentation-first rebuild of a production time-tracking system |
-| [antique-passport-web](https://github.com/illustraton916/antique-passport-web) | Provenance platform prototype for antique collectors |
+| [antique-passport-web](https://github.com/illustraton916/antique-passport-web) | Provenance platform prototype for antique collectors ([demo](https://antique-passport-web.vercel.app/)) |
 | [freezer-labels](https://github.com/illustraton916/freezer-labels) | Food-label printing for Brother QL-700 — Flask + hardware integration |
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/oleksiihalushka) · halushka.oleksii@gmail.com
+[Portfolio](https://oleksii-frontend-project.vercel.app/) · [LinkedIn](https://linkedin.com/in/oleksiihalushka) · halushka.oleksii@gmail.com
