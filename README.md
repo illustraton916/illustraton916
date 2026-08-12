@@ -16,6 +16,7 @@ Most of my commercial work lives in private repositories — happy to walk throu
 
 | Project | What it is |
 |---|---|
+| [restaurant-agent](https://github.com/illustraton916/restaurant-agent) | Permission-aware MCP server with spec-driven process and an eval harness — role-gated tools, structured refusals, prompt-injection evals |
 | [vanhamylly-website](https://github.com/illustraton916/vanhamylly-website) | Production website of a real restaurant — React, TypeScript, trilingual, QR table ordering ([live](https://vanhamylly-raisio.fi)) |
 | [vanhamylly-api](https://github.com/illustraton916/vanhamylly-api) | Restaurant backend — REST API, QR ordering, Telegram bot admin, kitchen display, receipt printing |
 | [restaurant-infra](https://github.com/illustraton916/restaurant-infra) | Self-hosted business infrastructure — OpenWRT + Tailscale, VLAN-segmented network, Proxmox, Cloudflare Tunnel |
