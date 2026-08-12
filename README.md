@@ -26,4 +26,4 @@ Most of my commercial work lives in private repositories — happy to walk throu
 
 ## Contact
 
-[Portfolio](https://oleksii-frontend-project.vercel.app/) · [LinkedIn](https://linkedin.com/in/oleksiihalushka) · halushka.oleksii@gmail.com
+[Portfolio](https://www.oleksiihalushka.dev/) · [LinkedIn](https://linkedin.com/in/oleksiihalushka) · halushka.oleksii@gmail.com
