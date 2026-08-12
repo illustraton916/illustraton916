@@ -1,8 +1,8 @@
 # Oleksii Halushka
 
-**Full Stack Developer (React / .NET / PostgreSQL)** · Turku, Finland
+**Full Stack Developer (React / TypeScript / .NET / PostgreSQL)** · Turku, Finland
 
-I build software end to end — around 5 years of experience across frontend, backend, and the infrastructure underneath. I've shipped in-house products (time tracking, marketplace) and run a complete self-hosted stack for a family restaurant business: Proxmox, Docker, Odoo, Nextcloud, Mailcow, and site-to-site WireGuard.
+I build software end to end — around 5 years of experience across frontend, backend, and the infrastructure underneath. I've shipped in-house products (time tracking, marketplace) and founded a restaurant whose complete digital stack I build and run solo: Proxmox, Docker, TrueNAS, and a zero-open-ports network on Tailscale and Cloudflare Tunnel.
 
 Most of my commercial work lives in private repositories — happy to walk through it in an interview.
 
